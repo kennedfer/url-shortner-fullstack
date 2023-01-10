@@ -1,7 +1,7 @@
 # URL Shortner Full
 ## Microservice project to prove knowledge about development of apis
 Its simple but functional :) <br>
-you can test <a target="_blank" href="https://kennedfer-url-shortner.onrender.com/">here<a> <br>
+you can use <a target="_blank" href="https://kennedfer-url-shortner.onrender.com/">here<a> <br>
 
 
 
