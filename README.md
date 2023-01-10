@@ -1,3 +1,8 @@
-# URL Shortener Microservice
+# URL Shortner Full
+## Microservice project to prove knowledge about development of apis
+Its simple but functional :) <br>
+you can use <a target="_blank" href="https://kennedfer-url-shortner.onrender.com/">here<a> <br>
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+
+
+<i>to keep the tests working, with a minimum of modifications, I had to add to the path '/api/shorturl/' so some links may not be so short</i>
