@@ -60,7 +60,11 @@ app.post('/api/shorturl', async function(req, res) {
   urlObject.save((err) => {
     if (err) return console.log(err);
 
-    res.json({ original_url: url, short_url: urlObject._id });
+    // to pass freecodecamp tests
+    // res.json({ original_url: url, short_url: urlObject._id });
+  
+    //to be more friendly to user
+    res.send(`<a href="https://kennedfer-url-shortner.onrender.com/api/shorturl/${urlObject._id}">your link :)</a>`);
   });
 });
 
